@@ -12,7 +12,7 @@
 
 - 🎓 Computer Science Student  
 - 💻 Frontend Developer focused on **clean UI & performance**  
-- 🌱 Currently learning **MERN Stack & DevOps**  
+- 🌱 Currently learning **MERN Stack **  
 - 🎯 Goal: Crack a good IT role & grow as a full-stack engineer  
 - 🚀 Consistent learner & project builder  
 
