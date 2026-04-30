@@ -12,7 +12,7 @@
 
 - 🎓 Computer Science Student  
 - 💻 Frontend Developer focused on **clean UI & performance**  
-- 🌱 Currently learning **MERN Stack **  
+- 🌱 Currently learning **MERN Stack and Devops**  
 - 🎯 Goal: Crack a good IT role & grow as a full-stack engineer  
 - 🚀 Consistent learner & project builder  
 
@@ -28,7 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="42"/>
 </p>
 
@@ -46,6 +45,7 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="42"/>
+  
 </p>
 ---
 
