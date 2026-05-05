@@ -1,7 +1,7 @@
 # Hi 👋 I'm Piyush Sen
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Backend+Developer;MERN+Stack+Developer;DevOps+Engineer&center=true&width=600&height=45&color=00C853">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Backend+Developer;MERN+Stack+Developer;&center=true&width=600&height=45&color=00C853">
 </p>
 
 
@@ -12,7 +12,7 @@
 
 - 🎓 Computer Science Student  
 - 💻 Frontend Developer focused on **clean UI & performance**  
-- 🌱 Currently learning **MERN Stack and Devops**  
+- 🌱 Currently learning **MERN Stack**  
 - 🎯 Goal: Crack a good IT role & grow as a full-stack engineer  
 - 🚀 Consistent learner & project builder  
 
